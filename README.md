@@ -1,4 +1,4 @@
-# OMS — Order Management Service (ecomm_v3 - oms)
+# OMS — Order Management Service
 
 Small Spring Boot microservice that implements a minimal Order Management System used for learning and demonstration.
 
